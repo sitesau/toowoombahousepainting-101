@@ -1,0 +1,22 @@
+{
+  "wheel_id": 702,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-101",
+  "project": "house-painting-toowoomba-beginner-guide-fe8e969aef752e882dd200e",
+  "parent_t1_ref": "toowoombahousepainting-150",
+  "node_role": "feeder",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting toowoomba beginner guide",
+  "intended_url": "https://sitesau.github.io/toowoombahousepainting-101/",
+  "tier": "T2",
+  "writeback_nonce": "30095449e2c3f38c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/house-painting-toowoomba-c2f305cea45c43a00d6b282429bec87e5b10ec/",
+      "anchor": "more on house painting toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
